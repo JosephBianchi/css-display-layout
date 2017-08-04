@@ -1,0 +1,47 @@
+h1{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1px 4px;
+  margin: 1px 30px;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+ul li {
+  list-style-type: none;
+  margin: 2px;
+  padding: 2px;
+  background-color: grey;
+}
+
+/*tried to make home add photo about white font and remove textdec*/
+a {
+  color: white;
+  text-decoration: none;
+}
+h3 {
+  background-color: teal;
+  margin: 1px 50px;
+}
+b {
+  font-weight: bold;
+}
+li {
+  display: inline;
+}
+ul {
+  text-align: center;
+}
+div {
+  width: 30%;
+  display: inline-block;
+  margin: 2px;
+}
+.edit {
+  background-color: orange;
+  text-decoration: none;
+}
